@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades da ferramenta de IA. 
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/LucyMattos/creating-ebook-with-IA/blob/main/output/Ebook%20_Angular_principais_diretivas_descomplicadas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
